@@ -112,3 +112,46 @@ target/test-classes/apiautomation/TestRunner/RunApiTestSuite.class
 target/test-classes/META-INF/Api.TestAutomation.kotlin_module
 target/test-classes/stepdefinitions/api/CircuitsApiSteps.class
 target/test-classes/TestRunner/RunApiTestSuite.class
+target/cucumber-report/cucumber-html-reports/cucumber-html-reports/report-feature_2680062183.html
+target/cucumber-report/cucumber-html-reports/cucumber-html-reports/report-tag_3996109695.html
+target/cucumber-report/cucumber-html-reports/fonts/fontawesome-webfont.eot
+target/cucumber-report/cucumber-html-reports/fonts/fontawesome-webfont.svg
+target/cucumber-report/cucumber-html-reports/fonts/fontawesome-webfont.ttf
+target/cucumber-report/cucumber-html-reports/fonts/fontawesome-webfont.woff
+target/cucumber-report/cucumber-html-reports/fonts/fontawesome-webfont.woff2
+target/cucumber-report/cucumber-html-reports/fonts/FontAwesome.otf
+target/cucumber-report/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot
+target/cucumber-report/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg
+target/cucumber-report/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf
+target/cucumber-report/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff
+target/cucumber-report/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2
+target/cucumber-report/cucumber-html-reports/images/favicon.png
+target/cucumber-report/cucumber-html-reports/js/bootstrap.min.js
+target/cucumber-report/cucumber-html-reports/js/Chart.min.js
+target/cucumber-report/cucumber-html-reports/js/jquery.min.js
+target/cucumber-report/cucumber-html-reports/js/jquery.tablesorter.min.js
+target/cucumber-report/cucumber-html-reports/js/moment.min.js
+target/cucumber-report/cucumber-html-reports/overview-failures.html
+target/cucumber-report/cucumber-html-reports/overview-features.html
+target/cucumber-report/cucumber-html-reports/overview-steps.html
+target/cucumber-report/cucumber-html-reports/overview-tags.html
+target/cucumber-report/cucumber-html-reports/report-feature_file-src-test-java-apiautomation-features-api-CircuitsApi-feature.html
+target/cucumber-report/cucumber-html-reports/report-tag_formulaone.html
+target/cucumber-report/cucumber.json
+target/maven-archiver/pom.properties
+target/surefire-reports/bullet_point.png
+target/surefire-reports/collapseall.gif
+target/surefire-reports/emailable-report.html
+target/surefire-reports/failed.png
+target/surefire-reports/index.html
+target/surefire-reports/jquery-1.7.1.min.js
+target/surefire-reports/junitreports/TEST-apiautomation.TestRunner.RunApiTestSuite.xml
+target/surefire-reports/navigator-bullet.png
+target/surefire-reports/old/index.html
+target/surefire-reports/old/Surefire suite/classes.html
+target/surefire-reports/old/Surefire suite/groups.html
+target/surefire-reports/old/Surefire suite/index.html
+target/surefire-reports/old/Surefire suite/main.html
+target/surefire-reports/old/Surefire suite/methods-alphabetical.html
+target/surefire-reports/old/Surefire suite/methods-not-run.html
+target/surefire-reports/old/Surefire suite/methods.html
