@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcf62deb-9a94-4999-aaef-a575a6e3e8f7" name="Default Changelist" comment="" />
+    <list default="true" id="dcf62deb-9a94-4999-aaef-a575a6e3e8f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/api/CircuitsApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/RunApiTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/RunApiTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/api/CircuitsApiSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/api/CircuitsApiSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber-html-reports/api/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner/RunApiTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner/RunApiTestSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/api/CircuitsApiSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/api/CircuitsApiSteps.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,15 +31,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eDm4s6OjZNKJGNrBk1CAOhkNjc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="api.testautomation" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../AppiumCucumberTest" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager" selected="TestNG.RunApiTestSuite">
     <configuration name="Scenario: Check the number of races in a season" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -90,46 +116,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593865718794" />
-    <state width="1877" height="570" key="GridCell.Tab.0.bottom" timestamp="1593922913762">
+    <state width="1877" height="570" key="GridCell.Tab.0.bottom" timestamp="1594031195677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="342" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593866620839" />
-    <state width="1877" height="570" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922913762" />
-    <state width="1877" height="570" key="GridCell.Tab.0.center" timestamp="1593922913762">
+    <state width="1877" height="570" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594031195677" />
+    <state width="1877" height="570" key="GridCell.Tab.0.center" timestamp="1594031195677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="342" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593866620838" />
-    <state width="1877" height="570" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922913762" />
-    <state width="1877" height="570" key="GridCell.Tab.0.left" timestamp="1593922913762">
+    <state width="1877" height="570" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594031195677" />
+    <state width="1877" height="570" key="GridCell.Tab.0.left" timestamp="1594031195677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="342" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593866620838" />
-    <state width="1877" height="570" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922913762" />
-    <state width="1877" height="570" key="GridCell.Tab.0.right" timestamp="1593922913762">
+    <state width="1877" height="570" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594031195677" />
+    <state width="1877" height="570" key="GridCell.Tab.0.right" timestamp="1594031195677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="342" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593866620839" />
-    <state width="1877" height="570" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922913762" />
-    <state width="1877" height="407" key="GridCell.Tab.1.bottom" timestamp="1593922891600">
+    <state width="1877" height="570" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594031195677" />
+    <state width="1877" height="407" key="GridCell.Tab.1.bottom" timestamp="1594028358173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="407" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922891600" />
-    <state width="1877" height="407" key="GridCell.Tab.1.center" timestamp="1593922891600">
+    <state width="1877" height="407" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594028358173" />
+    <state width="1877" height="407" key="GridCell.Tab.1.center" timestamp="1594028358173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="407" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922891600" />
-    <state width="1877" height="407" key="GridCell.Tab.1.left" timestamp="1593922891600">
+    <state width="1877" height="407" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594028358173" />
+    <state width="1877" height="407" key="GridCell.Tab.1.left" timestamp="1594028358173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="407" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922891600" />
-    <state width="1877" height="407" key="GridCell.Tab.1.right" timestamp="1593922891600">
+    <state width="1877" height="407" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594028358173" />
+    <state width="1877" height="407" key="GridCell.Tab.1.right" timestamp="1594028358173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="407" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593922891600" />
+    <state width="1877" height="407" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594028358173" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1593865447752">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1593865447752" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1594028355840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594028355840" />
     <state x="394" y="262" width="497" height="156" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1593865163200">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -140,23 +170,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/api/CircuitsApiSteps.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ApiRequestSpecification.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/api/CircuitsApiSteps.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/api/CircuitsApiSteps.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="5" />
+          <line>49</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

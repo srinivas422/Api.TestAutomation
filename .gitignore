@@ -76,3 +76,16 @@ target/test-classes/TestRunner/RunApiTestSuite.class
 .idea/encodings.xml
 .idea/vcs.xml
 .idea/workspace.xml
+.idea/workspace.xml
+target/cucumber-report/cucumber-html-reports/api/formatter.js
+target/cucumber-report/cucumber-html-reports/api/index.html
+target/cucumber-report/cucumber-html-reports/api/jquery-3.4.1.min.js
+target/cucumber-report/cucumber-html-reports/api/report.js
+target/cucumber-report/cucumber-html-reports/api/style.css
+target/cucumber-report/cucumber.json
+target/test-classes/META-INF/Api.TestAutomation.kotlin_module
+target/test-classes/stepdefinitions/api/CircuitsApiSteps.class
+target/test-classes/TestRunner/RunApiTestSuite.class
+.idea/workspace.xml
+target/test-classes/TestRunner/RunApiTestSuite.class
+target/test-classes/stepdefinitions/api/CircuitsApiSteps.class
