@@ -1,0 +1,268 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-07-05T04:21:33.286Z",
+        "line": 14,
+        "name": "Check the number of races in a season",
+        "description": "",
+        "id": "circuitsapi;check-the-number-of-races-in-a-season;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2446000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to know the number of Formula One races in \"2017\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2017\"",
+                  "offset": 50
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_want_to_know_the_number_of_Formula_One_races_in(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I retrieve the circuit list for that season",
+            "match": {
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_retrieve_the_circuit_list_for_that_season()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 315000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "there should be \"20\" circuits in the list returned",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"20\"",
+                  "offset": 16
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.there_should_be_circuits_in_the_list_returned(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@formulaone"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-05T04:21:36.072Z",
+        "line": 15,
+        "name": "Check the number of races in a season",
+        "description": "",
+        "id": "circuitsapi;check-the-number-of-races-in-a-season;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 631000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to know the number of Formula One races in \"2016\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"2016\"",
+                  "offset": 50
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_want_to_know_the_number_of_Formula_One_races_in(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I retrieve the circuit list for that season",
+            "match": {
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_retrieve_the_circuit_list_for_that_season()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "there should be \"21\" circuits in the list returned",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"21\"",
+                  "offset": 16
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.there_should_be_circuits_in_the_list_returned(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@formulaone"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-05T04:21:36.721Z",
+        "line": 16,
+        "name": "Check the number of races in a season",
+        "description": "",
+        "id": "circuitsapi;check-the-number-of-races-in-a-season;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 624000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to know the number of Formula One races in \"1966\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1966\"",
+                  "offset": 50
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_want_to_know_the_number_of_Formula_One_races_in(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I retrieve the circuit list for that season",
+            "match": {
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_retrieve_the_circuit_list_for_that_season()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 21000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "there should be \"9\" circuits in the list returned",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"9\"",
+                  "offset": 16
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.there_should_be_circuits_in_the_list_returned(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@formulaone"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-07-05T04:21:37.369Z",
+        "line": 17,
+        "name": "Check the number of races in a season",
+        "description": "",
+        "id": "circuitsapi;check-the-number-of-races-in-a-season;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 628000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I want to know the number of Formula One races in \"1950\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1950\"",
+                  "offset": 50
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_want_to_know_the_number_of_Formula_One_races_in(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I retrieve the circuit list for that season",
+            "match": {
+              "location": "stepdefinitions.api.CircuitsApiSteps.i_retrieve_the_circuit_list_for_that_season()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "there should be \"7\" circuits in the list returned",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"7\"",
+                  "offset": 16
+                }
+              ],
+              "location": "stepdefinitions.api.CircuitsApiSteps.there_should_be_circuits_in_the_list_returned(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@formulaone"
+          }
+        ]
+      }
+    ],
+    "name": "CircuitsApi",
+    "description": "  In order to impress my friends\n  As a Formula 1 fan\n  I want to know the number of races for a given Formula 1 season",
+    "id": "circuitsapi",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/api/CircuitsApi.feature",
+    "tags": []
+  }
+]
