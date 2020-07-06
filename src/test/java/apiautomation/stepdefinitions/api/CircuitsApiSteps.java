@@ -1,14 +1,13 @@
-package stepdefinitions.api;
+package apiautomation.stepdefinitions.api;
 
-import com.PropertiesUtility;
-import com.sun.codemodel.JArray;
+import apiautomation.PropertiesUtility;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.testng.Assert;
-import steps.api.CircuitsApi;
+import apiautomation.steps.api.CircuitsApi;
 
 import java.io.IOException;
 import java.net.URISyntaxException;

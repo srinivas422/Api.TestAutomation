@@ -1,4 +1,4 @@
-package com;
+package apiautomation;
 
 import java.io.File;
 import java.io.FileInputStream;

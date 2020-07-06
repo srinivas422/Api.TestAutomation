@@ -1,6 +1,6 @@
-package steps.api;
+package apiautomation.steps.api;
 
-import com.ApiRequestSpecification;
+import apiautomation.ApiRequestSpecification;
 import io.restassured.response.Response;
 import java.io.IOException;
 import java.net.URISyntaxException;
